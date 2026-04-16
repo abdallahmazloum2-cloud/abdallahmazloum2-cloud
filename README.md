@@ -1,8 +1,8 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to meet you.</h1>
 
-<p>Welcome to my page!</br> I'm <b>Abdallah Mazloum</b>, Energy Modeling Engineer based in <img src="https://cdn-icons-png.flaticon.com/512/197/197374.png" width="13"/> <b>Montreal, Quebec</b>, originally from <img src="https://cdn-icons-png.flaticon.com/512/197/197571.png" width="13"/> <b>Lebanon</b>.</p>
+<p>Welcome to my page!</br> I'm <b>Abdallah Mazloum</b>, Energy Modeling Engineer based in <img src="https://cdn-icons-png.flaticon.com/512/197/197430.png" width="13"/> <b>Montreal, Quebec</b>.</p>
 
-<p>I specialize in <b>building energy simulation</b>, <b>HVAC analysis</b>, and <b>energy code compliance</b> (CNÉB, ASHRAE, LEED). I currently work at <a href="https://www.martinroy.ca/"><b>Martin Roy et Associés</b></a>, helping design more efficient and sustainable buildings across Canada.</p>
+<p>I specialize in <b>building energy simulation</b>, <b>HVAC analysis</b>, and <b>energy code compliance</b> (NECB, ASHRAE, LEED). I currently work at <a href="https://www.martinroy.ca/"><b>Martin Roy et Associés</b></a>, helping design more efficient and sustainable buildings across Canada.</p>
 
 <h3>🎓 Education</h3>
 <ul>
@@ -29,7 +29,7 @@
 
 <h3>📜 Codes & Standards</h3>
 <p>
-  <img alt="CNÉB" src="https://img.shields.io/badge/-CN%C3%89B_2020-C8102E?style=flat-square&logoColor=white" />
+  <img alt="NECB" src="https://img.shields.io/badge/-NECB_2020-C8102E?style=flat-square&logoColor=white" />
   <img alt="ASHRAE" src="https://img.shields.io/badge/-ASHRAE_90.1-003F7F?style=flat-square&logoColor=white" />
   <img alt="LEED" src="https://img.shields.io/badge/-LEED_v4.1-4A9B2C?style=flat-square&logoColor=white" />
   <img alt="ZCB" src="https://img.shields.io/badge/-ZCB_Design_v3-2E7D32?style=flat-square&logoColor=white" />
@@ -47,11 +47,15 @@
   <tbody>
     <tr>
       <td><b>Energy Modeling</b></td>
-      <td>Whole-building simulation (OpenStudio / EnergyPlus), archetype analysis, calibration</td>
+      <td>Whole-building simulation</td>
     </tr>
     <tr>
       <td><b>HVAC Analysis</b></td>
       <td>System selection, nameplate data review, air loop configuration, setpoint strategy</td>
+    </tr>
+    <tr>
+      <td><b>Commercial & Industrial</b></td>
+      <td>Large-scale building modeling, process loads, complex HVAC systems, plant optimization</td>
     </tr>
     <tr>
       <td><b>Energy Audits</b></td>
@@ -59,7 +63,7 @@
     </tr>
     <tr>
       <td><b>Code Compliance</b></td>
-      <td>CNÉB 2020 (QC Ch. I.1), ASHRAE 90.1, performance path modeling</td>
+      <td>NECB 2020 (QC Ch. I.1), ASHRAE 90.1, performance path modeling</td>
     </tr>
     <tr>
       <td><b>Residential</b></td>
@@ -70,9 +74,8 @@
 
 <h3>🌍 Languages</h3>
 <p>
-  🇫🇷 <b>French</b> — Native &nbsp;|&nbsp;
-  🇬🇧 <b>English</b> — Professional &nbsp;|&nbsp;
-  🇱🇧 <b>Arabic</b> — Native
+  🇫🇷 <b>French</b> &nbsp;|&nbsp;
+  🇬🇧 <b>English</b>
 </p>
 
 <h3>🎯 Currently exploring</h3>
