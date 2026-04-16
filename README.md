@@ -29,7 +29,7 @@
 
 <h3>📜 Codes & Standards</h3>
 <p>
-  <img alt="NECB" src="https://img.shields.io/badge/-NECB_2020-C8102E?style=flat-square&logoColor=white" />
+  <img alt="NECB" src="https://img.shields.io/badge/-NECB-C8102E?style=flat-square&logoColor=white" />
   <img alt="ASHRAE" src="https://img.shields.io/badge/-ASHRAE_90.1-003F7F?style=flat-square&logoColor=white" />
   <img alt="LEED" src="https://img.shields.io/badge/-LEED_v4.1-4A9B2C?style=flat-square&logoColor=white" />
   <img alt="ZCB" src="https://img.shields.io/badge/-ZCB_Design_v3-2E7D32?style=flat-square&logoColor=white" />
@@ -63,7 +63,7 @@
     </tr>
     <tr>
       <td><b>Code Compliance</b></td>
-      <td>NECB 2020 (QC Ch. I.1), ASHRAE 90.1, performance path modeling</td>
+      <td>NECB (QC Ch. I.1), ASHRAE 90.1, performance path modeling</td>
     </tr>
     <tr>
       <td><b>Residential</b></td>
@@ -88,7 +88,7 @@
 <h3>📫 Where to find me</h3>
 <p>
   <a href="https://github.com/YOUR_USERNAME" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/abdallah-mazloum/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:YOUR_EMAIL@example.com"><img alt="Email" src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
