@@ -2,7 +2,7 @@
 
 <p>Welcome to my page!</br> I'm <b>Abdallah Mazloum</b>, Energy Modeling Engineer based in <img src="https://cdn-icons-png.flaticon.com/512/197/197430.png" width="13"/> <b>Montreal, Quebec</b>.</p>
 
-<p>I specialize in <b>building energy simulation</b>, <b>HVAC analysis</b>, and <b>energy code compliance</b> (NECB, ASHRAE, LEED). I currently work at <a href="https://www.martinroy.ca/"><b>Martin Roy et Associés</b></a>, helping design more efficient and sustainable buildings across Canada.</p>
+<p>I specialize in <b>building energy simulation</b>, <b>HVAC analysis</b>, and <b>energy code compliance</b> (NECB, ASHRAE, LEED). I currently work at <a href="https://mra.qc.ca/"><b>Martin Roy et Associés</b></a>, helping design more efficient and sustainable buildings across Canada.</p>
 
 <h3>🎓 Education</h3>
 <ul>
@@ -59,7 +59,7 @@
     </tr>
     <tr>
       <td><b>Energy Audits</b></td>
-      <td>Retrofit recommendations, savings calculations</td>
+      <td>Hydro-Québec & NRCan reports, retrofit recommendations, savings calculations</td>
     </tr>
     <tr>
       <td><b>Code Compliance</b></td>
