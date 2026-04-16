@@ -59,7 +59,7 @@
     </tr>
     <tr>
       <td><b>Energy Audits</b></td>
-      <td>Hydro-Québec & NRCan reports, retrofit recommendations, savings calculations</td>
+      <td>Retrofit recommendations, savings calculations</td>
     </tr>
     <tr>
       <td><b>Code Compliance</b></td>
