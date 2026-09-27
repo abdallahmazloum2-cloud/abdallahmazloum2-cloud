@@ -8,7 +8,6 @@
 <ul>
   <li><b>M.Eng. Energy Engineering</b> — Polytechnique Montréal</li>
   <li><b>B.Sc. Mechanical Engineering</b> — Lebanese University</li>
-  <li>Member of <b>OIQ</b> (Ordre des ingénieurs du Québec) — CPI</li>
 </ul>
 
 <h3>🛠️ Tools I work with</h3>
